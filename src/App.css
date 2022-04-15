@@ -1,0 +1,22 @@
+:root {
+  --header-height: 3rem;
+ /* Colors */
+ 
+  --dark-color: #121212;
+  --dark-color-medium: #312f2f;
+  --light-color: #ffffff;
+  --border-grey:#8f8f8f3f;
+
+  /* Font Size */
+  --mobile-font-base: .8rem;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
